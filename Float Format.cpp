@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// Integer Format (printf)
+// Float Format (printf)
 
 int main()
 {
@@ -30,4 +30,5 @@ int main()
     return 0;
 
 }
+
 
